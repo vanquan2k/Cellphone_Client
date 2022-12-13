@@ -145,7 +145,7 @@ function AllComment(props) {
               <div className="all-comment-info-name">
                 C
               </div>
-              <strong>Cao Kha Hieu</strong>
+              <strong>Dang Van Quan</strong>
             </div>
             <div className="all-comment-content">
               Ip 11 này là loại đầy đủ phụ kiện hay loại mới ko pk đi kèm thế shop
@@ -162,7 +162,7 @@ function AllComment(props) {
                   <div className="all-comment-info-name">
                     C
                   </div>
-                  <strong>Cao Kha Hieu</strong>
+                  <strong>Dang Van Quan</strong>
                 </div>
 
                 <div className="all-comment-content">
@@ -182,7 +182,7 @@ function AllComment(props) {
                   <div className="all-comment-info-name">
                     C
                   </div>
-                  <strong>Cao Kha Hieu</strong>
+                  <strong>Dang Van Quan</strong>
                 </div>
 
                 <div className="all-comment-content">
